@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Saba 👋
 
-<!--
-**sabukajaparidze-svg/sabukajaparidze-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## C++ Developer
 
-Here are some ideas to get you started:
+I'm learning C++ and building practical projects to improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- C++
+- C++17
+- Git
+- GitHub
+- File I/O
+- STL
+- Vectors
+- Functions
+- Object-oriented programming
+
+### 🚀 Projects
+
+**Task Manager**
+A command-line task management application built with C++.
+
+**File Organizer**
+A C++ program that automatically organizes files into folders based on their file type.
+
+**Expense Tracker**
+A command-line application for recording and managing expenses.
+
+### 🎯 Currently Learning
+
+- Advanced C++
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Building larger applications
+
+### 📫 GitHub
+
+I'm building projects and improving my C++ skills every day.
