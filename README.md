@@ -1,39 +1,37 @@
 # Hi, I'm Saba 👋
 
-## C++ Developer
+### Senior C++ & Game Engine Developer
 
-I'm learning C++ and building practical projects to improve my programming skills.
+I am a software engineer with **5+ years of experience** building high-performance native applications, core gameplay systems, and multithreaded engine architecture using **Modern C++ (17/20)** and **Unreal Engine**. Focused on low-latency systems, custom memory management, and high-throughput graphics pipelines.
 
-### 🛠️ Skills
+---
 
-- C++
-- C++17
-- Git
-- GitHub
-- File I/O
-- STL
-- Vectors
-- Functions
-- Object-oriented programming
+### 🛠️ Technical Stack & Expertise
 
-### 🚀 Projects
+* **Languages:** Modern C++ (C++11/14/17/20), C, C#
+* **Engine & Graphics:** Unreal Engine (C++ API, Gameplay Framework, Slate/UMG), OpenGL, DirectX
+* **Core Concepts:** Multithreading & Concurrency, Memory Management (RAII, Custom Allocators), Spatial Partitioning (Octrees/BSP), 3D Vector Math, Systems Design
+* **Tools & Build Systems:** CMake, Git, Visual Studio, Valgrind, RenderDoc
 
-**Task Manager**
-A command-line task management application built with C++.
+---
 
-**File Organizer**
-A C++ program that automatically organizes files into folders based on their file type.
+### 🚀 Key Repositories
 
-**Expense Tracker**
-A command-line application for recording and managing expenses.
+* **[Scalable Async Chat Server](https://github.com/sabukajaparidze-svg/ChatServer)** — High-concurrency TCP server built with modern C++ utilizing non-blocking sockets and asynchronous thread dispatching.
+* **[Modular Task Scheduler](https://github.com/sabukajaparidze-svg/TaskManager)** — Native application utilizing OOD patterns, SQLite3 persistence, and strict memory safety guarantees.
+* **[Expense Tracker](https://github.com/sabukajaparidze-svg/ExpenseTracker)** — Low-overhead financial management tool emphasizing RAII and performance-focused data structures.
 
-### 🎯 Currently Learning
+---
 
-- Advanced C++
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Building larger applications
+### 🎯 Engineering Focus
 
-### 📫 GitHub
+* Architecting low-latency gameplay mechanics and C++ engine plugins in Unreal Engine.
+* Optimizing cache locality, memory layout, and runtime CPU/GPU execution speeds.
+* Designing thread-safe asynchronous networking pipelines.
 
-I'm building projects and improving my C++ skills every day.
+---
+
+### 📫 Connect With Me
+
+* **Location:** Tbilisi, Georgia
+* **Email:** sabajaparidze22@outlook.com
