@@ -1,8 +1,8 @@
 # Hi, I'm Saba 👋
 
-### Senior C++ & Game Engine Developer
+C++ & Unreal Engine Developer
 
-I am a software engineer with **5+ years of experience** building high-performance native applications, core gameplay systems, and multithreaded engine architecture using **Modern C++ (17/20)** and **Unreal Engine**. Focused on low-latency systems, custom memory management, and high-throughput graphics pipelines.
+I am a software engineer building high-performance native applications, core gameplay systems, and multithreaded engine architecture using **Modern C++ (17/20)** and **Unreal Engine**. Focused on low-latency systems, custom memory management, and high-throughput graphics pipelines.
 
 ---
 
